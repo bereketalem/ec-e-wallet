@@ -1,0 +1,39 @@
+{ "cards" : [
+    {
+        "id": "1",
+        "holder": "The name",
+        "vendor": "bitcoin",
+        "number": "XXXXYYYYZZZZFFFF",
+        "validMonth": "12",
+        "validDay": "5",
+        "color" : "#2F80ED"
+      },
+      {
+        "id": "2",
+        "holder": "The name",
+        "vendor": "bitcoin",
+        "number": "XXXXYYYYZZZZFFFF",
+        "validMonth": "12",
+        "validDay": "5",
+        "color" : "#2F80ED"
+      },
+      {
+        "id": "3",
+        "holder": "The name",
+        "vendor": "bitcoin",
+        "number": "XXXXYYYYZZZZFFFF",
+        "validMonth": "12",
+        "validDay": "5",
+        "color" : "#2F80ED"
+      },
+      {
+        "id": "4",
+        "holder": "The name",
+        "vendor": "bitcoin",
+        "number": "XXXXYYYYZZZZFFFF",
+        "validMonth": "12",
+        "validDay": "5",
+        "color" : "#2F80ED"
+      }
+    
+]}

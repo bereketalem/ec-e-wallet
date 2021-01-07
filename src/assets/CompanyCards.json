@@ -1,0 +1,28 @@
+{
+  "CompanyCards": [
+    {
+      "id": "swedbank",
+      "name": "Swedbank",
+      "icon": "vebdor-bitcon.svg",
+      "color": "orange"
+    },
+    {
+      "id": "nordeabank",
+      "name": "Nordea",
+      "icon": "vebdor-evil.svg",
+      "color": "blue"
+    },
+    {
+      "id": "SEB",
+      "name": "SEB",
+      "icon": "vebdor-ninja.svg",
+      "color": "green"
+    },
+    {
+      "id": "dansbank",
+      "name": "Dans",
+      "icon": "vebdor-blockchain.svg",
+      "color": "light-grey"
+    }
+  ]
+}
